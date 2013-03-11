@@ -10,7 +10,7 @@ Also adjusts the font and line-spacing to make Terminal looks like iTerm 2
 
 ## Download
 
-`curl https://raw.github.com/kevinxucs/Tango-Dark.terminal/master/Tango%20Dark.terminal`
+`curl https://raw.github.com/kevinxucs/Tango-Dark.terminal/master/Tango%20Dark.terminal > tango-dark.terminal`
 
 ## Installation
 
