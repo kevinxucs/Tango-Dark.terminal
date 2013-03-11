@@ -4,6 +4,10 @@ iTerm 2 built-in theme - Tango Dark for OS X Terminal
 
 Also adjusts the font and line-spacing to make Terminal looks like iTerm 2
 
+## Screenshot
+
+![Screenshot](https://raw.github.com/kevinxucs/Tango-Dark.terminal/assets/screen-shot.png)
+
 ## Download
 
 `curl https://raw.github.com/kevinxucs/Tango-Dark.terminal/master/Tango%20Dark.terminal`
