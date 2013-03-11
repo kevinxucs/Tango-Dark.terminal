@@ -1,8 +1,14 @@
 # Tango Dark.terminal
 
-Tango Dark color theme for OS X Terminal
+iTerm 2 built-in theme - Tango Dark for OS X Terminal
 
-Makes the Terminal looks like iTerm 2
+Also adjusts the font and line-spacing to make Terminal looks like iTerm 2
 
-## Downloads
+## Download
 
+`curl https://raw.github.com/kevinxucs/Tango-Dark.terminal/master/Tango%20Dark.terminal`
+
+## Installation
+
+* OS X 10.7 Lion: Double click to install or import into Terminal.app preferences.
+* OS X 10.8 Mountain Lion: Import into Terminal.app preferences.
