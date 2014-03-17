@@ -10,9 +10,9 @@ Also adjusts the font and line-spacing to make Terminal looks like iTerm 2
 
 ## Download
 
-`curl https://raw.github.com/kevinxucs/Tango-Dark.terminal/master/Tango%20Dark.terminal > tango-dark.terminal`
+`curl -O https://raw.github.com/kevinxucs/Tango-Dark.terminal/master/Tango%20Dark.terminal`
 
 ## Installation
 
-* OS X 10.7 Lion: Double click to install or import into Terminal.app preferences.
-* OS X 10.8 Mountain Lion: Import into Terminal.app preferences.
+* OS X 10.7 Lion: Double click to install or import into `Terminal.app` preferences.
+* OS X 10.8 Mountain Lion: Import into `Terminal.app` preferences.
